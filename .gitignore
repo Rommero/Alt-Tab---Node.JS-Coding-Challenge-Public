@@ -1,3 +1,7 @@
 node_modules
 angularjs-frontend/.tmp
 .idea
+config/index.js
+app_client/app.min.js
+app_client/app.min.js.map
+yarn.lock
